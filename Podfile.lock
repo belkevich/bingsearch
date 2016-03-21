@@ -1,0 +1,21 @@
+PODS:
+  - DTModelStorage (2.4.4):
+    - DTModelStorage/Core (= 2.4.4)
+  - DTModelStorage/Core (2.4.4)
+  - DTTableViewManager (4.5.3):
+    - DTModelStorage (~> 2.4.0)
+  - EKKeyboardAvoiding (2.0)
+  - Nimble (3.0.0)
+
+DEPENDENCIES:
+  - DTTableViewManager
+  - EKKeyboardAvoiding
+  - Nimble (= 3.0.0)
+
+SPEC CHECKSUMS:
+  DTModelStorage: bd56eb6bc51116bd490f3daddf1eea8de845d3c3
+  DTTableViewManager: e9619ff13ff67e75d2055b7c7bbe8270f5bf365e
+  EKKeyboardAvoiding: 15ed09e96eb97594991665316eef43340936bf74
+  Nimble: 4c353d43735b38b545cbb4cb91504588eb5de926
+
+COCOAPODS: 0.39.0
